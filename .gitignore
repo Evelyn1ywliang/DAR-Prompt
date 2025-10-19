@@ -1,0 +1,15 @@
+output/
+log_output/
+__pycache__/
+*.csv
+asl_loss/
+*.h5
+*.png
+grad_norm/
+ablation_output/
+.vscode/
+text_h5/
+*/.ipynb_checkpoints
+.vscode
+*/__pycache__
+final_nus_zsl_ckpt
